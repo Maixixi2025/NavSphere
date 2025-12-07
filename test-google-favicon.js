@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MEL2WSX3PM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MEL2WSX3PM');
+</script>
+
 // 测试 Google favicon 服务
 async function testGoogleFavicon() {
     const domains = ['github.com', 'google.com', 'stackoverflow.com', 'baidu.com'];
